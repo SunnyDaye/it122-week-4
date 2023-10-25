@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SunnyDaye/it122-week-4/issues"
   },
-  "homepage": "https://github.com/SunnyDaye/it122-week-4#readme"
+  "homepage": "https://github.com/SunnyDaye/it122-week-4#readme",
+  "devDependencies": {
+    "eslint": "^8.52.0"
+  }
 }

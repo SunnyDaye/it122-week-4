@@ -1,0 +1,9 @@
+{
+    "root": true,
+    "rules": {
+        "camelcase":"error",
+        "no-use-before-define":"error",
+        "no-undef-init": "error",
+        "no-unused-vars":"error" 
+    }
+}
